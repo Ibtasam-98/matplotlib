@@ -1,9 +1,8 @@
 # Matplotlib Learning Guide: Basic to Advanced
 
-This repository contains a comprehensive list of Matplotlib topics, structured to guide learners from fundamental concepts to advanced techniques in data visualization using Python's Matplotlib library.
+This repository contains comprehensive list of Matplotlib topics, structured to guide learners from fundamental concepts to advanced techniques in data visualization using Python's Matplotlib library.
 
 ## Overview
-
 This guide is organized into three levels: Beginner, Intermediate, and Advanced. Each section outlines key concepts and techniques you should learn to progress in your Matplotlib skills. Whether you're just starting with plotting or looking to create sophisticated visualizations, this resource provides a roadmap for your learning journey.
 
 ## Topics Covered
@@ -23,7 +22,6 @@ This guide is organized into three levels: Beginner, Intermediate, and Advanced.
 * **Working with Different Coordinate Systems:** Polar plots, logarithmic scales.
 * **Integrating with Pandas:** Plotting directly from DataFrames and Series.
 * **Figure and Axes Objects in Detail:** Understanding and manipulating Figure and Axes objects.
-* **Styling with Style Sheets and `rcParams`:** Using pre-defined and custom styles.
 
 ### Advanced
 
@@ -38,9 +36,6 @@ This guide is organized into three levels: Beginner, Intermediate, and Advanced.
 * **Performance Optimization:** Techniques for efficiently plotting large datasets.
 * **Toolkits:** Introduction to specialized Matplotlib toolkits.
 
-## How to Use This Guide
-
-This README provides a high-level overview. The detailed list of topics can be found in the `matplotlib_topics.md` (or similar named) file within this repository. You can use this list as a checklist for your learning progress or as a reference for specific Matplotlib functionalities.
 
 ## Contributing
 
